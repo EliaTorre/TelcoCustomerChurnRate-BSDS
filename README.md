@@ -16,4 +16,6 @@ Bank transfer (automatic), Credit card (automatic)
 9) “TotalCharges”, The total amount charged to the customer
 10) “Churn”,Whether the customer churned or not (Yes or No). This represents the label
 that your model should try to predict, so you’ll find yourself facing with a ​supervised machine learning problem​ (supervised means that you know what you’re trying to predict, i.e. the “Churn” label).
+
+
 What you’re asked to do is to try to deploy a machine learning algorithm in order to train a model on the set we will give you trying to predict as precisely as possible if the customer will or won’t leave the company in the next future. The “training set” that you have been given has all the 10 columns described above, while the “test set” that I, the keys-keeper, greedly enshrine in my computer, will miss the label column, the one called “Churn”, and on this dataset your ML model will be tested.
