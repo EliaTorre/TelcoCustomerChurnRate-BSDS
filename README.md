@@ -1,5 +1,14 @@
-# Telco Churn Rate Analysis
-Project developed alongside Edoardo Botta and Marco Antonioli for the Hackathon of the Bocconi Students for Data Science.
+<h1 align="center">
+Telco-Customers Churn-Rate Analysis</h1>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/eliatorre/">Elia Torre</a>,
+  <a href="https://www.linkedin.com/in/edoardobotta/">Edoardo Botta</a>,
+  <a href="https://www.linkedin.com/in/marco-antonioli/">Marco Antonioli</a>
+  <p><a href="https://datascience.ucsd.edu/">Bocconi Institute for Data Science and Analytics</a>, Bocconi University, Milan, Italy</p>
+</div>
+
+Project developed alongside Edoardo Botta and Marco Antonioli for the Hackathon of the Bocconi Students for Data Science (BSDS).
 
 Churn analysis studies the churn rate of a company, where the churn rate represents the portion of customers that leave that specific company. it’s fairly easy to understand why firms need and strive to have relevant information about why, how and when a customer leaves the company, the most immediate one being trying to retain that customer and prevent that to happen in the future with another customer. One branch in which the churn analysis is particulary exploited is the Telecommunications, as in the studied case.
 
